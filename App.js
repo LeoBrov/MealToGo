@@ -27,7 +27,6 @@ export default function App() {
         <RestaurantsScreen />
       </ThemeProvider>
       <ExpoStatusBar style="auto" />
-      {/* <text></text> */}
     </>
   );
 }
